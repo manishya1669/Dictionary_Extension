@@ -2,7 +2,7 @@
 
 ## Description
 
-About
+
 I have created a extension to search word instantly while reading . Generally we change our tab to go to google and then search there , this is something that i want to avoid doing so a small pop can help us to to achieve this.
 It also includes pronounciation of the words.
 
